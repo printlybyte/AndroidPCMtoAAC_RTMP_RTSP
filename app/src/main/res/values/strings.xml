@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPCMtoAAC_RTMP_RTSP</string>
+    <string name="start_button">开始推送</string>
+    <string name="stop_button">停止推送</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidPCMtoAAC_RTMP_RTSP.iml" filepath="$PROJECT_DIR$/AndroidPCMtoAAC_RTMP_RTSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encoder/encoder.iml" filepath="$PROJECT_DIR$/encoder/encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtmp/rtmp.iml" filepath="$PROJECT_DIR$/rtmp/rtmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtplibrary/rtplibrary.iml" filepath="$PROJECT_DIR$/rtplibrary/rtplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtsp/rtsp.iml" filepath="$PROJECT_DIR$/rtsp/rtsp.iml" />
+    </modules>
+  </component>
+</project>
